@@ -1,0 +1,11 @@
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.exe
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.deps.json
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.runtimeconfig.json
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.runtimeconfig.dev.json
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.dll
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\bin\Debug\netcoreapp3.1\ProgLab9.pdb
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\obj\Debug\netcoreapp3.1\ProgLab9.csprojAssemblyReference.cache
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\obj\Debug\netcoreapp3.1\ProgLab9.AssemblyInfoInputs.cache
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\obj\Debug\netcoreapp3.1\ProgLab9.AssemblyInfo.cs
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\obj\Debug\netcoreapp3.1\ProgLab9.dll
+C:\Users\rus_u\source\repos\ProgLab9\ProgLab9\obj\Debug\netcoreapp3.1\ProgLab9.pdb
